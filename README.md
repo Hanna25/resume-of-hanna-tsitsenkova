@@ -38,9 +38,9 @@
     </ul>
     <h3>Example of code 😁</h3>
     ```
-    function sayHi() {
-      return "Hello Word!"
-    }
+    function sayHi() { 
+        return "Hello Word!" 
+    } 
     sayHi();
     ```
     <h3>Му progects:</h3>
