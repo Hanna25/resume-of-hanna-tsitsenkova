@@ -21,24 +21,27 @@
       <li>JavaScript ES6</li>
       <li>SASS</li>
       <li>Bootstrap</li>
+      <li>Material</li>
       <li>BEM</li>
     </ul>
     <h3>Other:</h3>
     <ul> 
       <li>Webpack</li>
+      <li>Eslint</li>
       <li>Github</li>
       <li>Figma</li>
     </ul>
+    <h3>English level: A2</h3>
     <h3>Communication:</h3>
     <ul> 
       <li>Trello</li>
     </ul>
     <h3>Example of code 😁</h3>
     ```
-    let function sayHi() {
-    return "Hello Word!"
+    function sayHi() {
+      return "Hello Word!"
     }
-    sayHi();
+    comsole.log(sayHi());
     ```
     <h3>Му progects:</h3>
       HTML + CSS </br>
@@ -47,8 +50,8 @@
       - <a href="https://rolling-scopes-school.github.io/hanna25-JS2020Q3/shelter/pages/main/main.html">Shelter</a> </br>   
       - <a href="https://rolling-scopes-school.github.io/hanna25-JS2020Q3/calculator/">Calculator</a> </br>    
       - <a href="https://rolling-scopes-school.github.io/hanna25-JS2020Q3/gem-puzzle/dist/index.html">Gem puzzle</a></br>   
-      <h3>Other about me</h3>
-      <p> All projects on which I worked are in the private repository of the school where I studied. Above are links to only a small part of the projects. I graduated from The Rolling Scopes School in 2020  <a href="https://app.rs.school/certificate/o9cctjh0">(click to view certificate)</a>
+      <h3>Other about me:</h3>
+      <p> I graduated from The Rolling Scopes School in 2020  <a href="https://app.rs.school/certificate/o9cctjh0">(click to view certificate)</a>
       </p>
   </div>
 
