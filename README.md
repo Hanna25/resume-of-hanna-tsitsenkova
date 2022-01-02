@@ -38,10 +38,10 @@
     </ul>
     <h3>Example of code 😁</h3>
     ```
-    function sayHi() { 
+      function sayHi() { 
         return "Hello Word!" 
-    } 
-    sayHi();
+      } 
+      sayHi();
     ```
     <h3>Му progects:</h3>
       HTML + CSS </br>
