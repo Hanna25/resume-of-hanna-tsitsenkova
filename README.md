@@ -41,14 +41,14 @@
         sayHi();
     ```
     <h3>Му progects:</h3>
-      > HTML + CSS
-      <a href="https://rolling-scopes-school.github.io/hanna25-JS2020Q3/webdev/">webdev</a>
-      > HTML + CSS + JS
-      >><a href="https://rolling-scopes-school.github.io/hanna25-JS2020Q3/shelter/pages/main/main.html">shelter</a>   
-      >><a href="https://rolling-scopes-school.github.io/hanna25-JS2020Q3/calculator/">calculator</a>     
-     >><a href="https://rolling-scopes-school.github.io/hanna25-JS2020Q3/gem-puzzle/dist/index.html
+      HTML + CSS
+      > <a href="https://rolling-scopes-school.github.io/hanna25-JS2020Q3/webdev/">webdev</a>
+      HTML + CSS + JS
+      > <a href="https://rolling-scopes-school.github.io/hanna25-JS2020Q3/shelter/pages/main/main.html">shelter</a>   
+      > <a href="https://rolling-scopes-school.github.io/hanna25-JS2020Q3/calculator/">calculator</a>     
+      > <a href="https://rolling-scopes-school.github.io/hanna25-JS2020Q3/gem-puzzle/dist/index.html
           ">gem puzzle</a>      
-    <h3>Other about me</h3>
+      <h3>Other about me</h3>
       <p> All projects on which I worked are in the private repository of the school where I studied. Above are links to only a small part of the projects. I graduated from The Rolling Scopes School in 2020  <a href="https://app.rs.school/certificate/o9cctjh0">(click to view certificate)</a>
       </p>
   </div>
