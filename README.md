@@ -1,16 +1,16 @@
 <div class="container" align="center">  
   <h1> Hanna Tsitsenkova </h1>
   <h2> Junior Front-End Developer </h2>         
-  <h3> Minsk, Belarus </h3>   
-    <p> +375(29)188-05-73
-      <a  style="float: right;" href="https://web.telegram.org/z/">
+  <h3> Minsk, Belarus </h3>  
+  <p> +375(29)188-05-73
+      <a href="https://web.telegram.org/z/" style="float: center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=20px class="img"alt="telegram"/>
       </a>
     </p>              
     <p>hanna.tsitsenkova@gmail.com 
-      <a  style="float: right;" href="https://web.telegram.org/z/">
-        <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width=20px alt="gmail"/> 
-      </a> 
+     <a href="https://www.google.com/intl/ru/gmail/about/" style="float: center">
+        <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width=20px alt="gmail"/>
+       </a>
     </p>
   </div>
 
@@ -42,7 +42,7 @@
     ```
     <h3>Му progects:</h3>
       > HTML + CSS
-      >> <a href="https://rolling-scopes-school.github.io/hanna25-JS2020Q3/webdev/">webdev</a>
+      <a href="https://rolling-scopes-school.github.io/hanna25-JS2020Q3/webdev/">webdev</a>
       > HTML + CSS + JS
       >><a href="https://rolling-scopes-school.github.io/hanna25-JS2020Q3/shelter/pages/main/main.html">shelter</a>   
       >><a href="https://rolling-scopes-school.github.io/hanna25-JS2020Q3/calculator/">calculator</a>     
