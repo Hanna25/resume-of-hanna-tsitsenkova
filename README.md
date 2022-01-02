@@ -41,7 +41,7 @@
     function sayHi() {
       return "Hello Word!"
     }
-    comsole.log(sayHi());
+    sayHi();
     ```
     <h3>Му progects:</h3>
       HTML + CSS </br>
