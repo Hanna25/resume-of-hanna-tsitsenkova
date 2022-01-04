@@ -2,9 +2,9 @@
   <h1> Hanna Tsitsenkova </h1>
   <h2> Junior Front-End Developer </h2>         
   <h3> Minsk, Belarus </h3>   
-    <p> +375(29)188-05-73
+    <p> 375(29)188-05-73
       <a href="https://web.telegram.org/z/" align="center">
-        <img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504941.png?token=exp=1641321592~hmac=5258700ae52ea86b6eb649d87e7b3954" width=20px class="img"alt="telegram"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=20px class="img"alt="telegram"/>
       </a>
     </p>              
     <p>hanna.tsitsenkova@gmail.com 
