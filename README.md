@@ -33,7 +33,7 @@
     <ul> 
       <li>Trello</li>
     </ul>
-    <h3>Example of code</h3>
+    <h3>Example of code 😁</h3>
     ```
     let function sayHi() {
       return "Hello Word!"
