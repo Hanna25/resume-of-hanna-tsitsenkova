@@ -37,12 +37,12 @@
       <li>Trello</li>
     </ul>
     <h3>Example of code 😁</h3>
-    ```
-    function sayHi() { 
-        return "Hello Word!" 
-    } 
-    sayHi();
-    ```
+  ```
+  function sayHi() { 
+      return "Hello Word!" 
+  } 
+  sayHi();
+  ```
     <h3>Му progects:</h3>
       HTML + CSS </br>
       - <a href="https://rolling-scopes-school.github.io/hanna25-JS2020Q3/webdev/">WebDev</a> </br>
