@@ -3,12 +3,12 @@
   <h2> Junior Front-End Developer </h2>         
   <h3> Minsk, Belarus </h3>   
     <p> +375(29)188-05-73
-      <a href="https://web.telegram.org/z/">
+      <a href="https://web.telegram.org/z/" align="center>
         <img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504941.png?token=exp=1641321592~hmac=5258700ae52ea86b6eb649d87e7b3954" width=20px class="img"alt="telegram"/>
       </a>
     </p>              
     <p>hanna.tsitsenkova@gmail.com 
-      <a href="https://www.google.com/intl/ru/gmail/about/">
+      <a href="https://www.google.com/intl/ru/gmail/about/" align="center>
         <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width=20px alt="gmail"/>
        </a>
     </p>
