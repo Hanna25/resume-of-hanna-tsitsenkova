@@ -41,18 +41,20 @@
     <ul> 
       <li>Trello</li>
     </ul>
-    <h3>Example of code 😁</h3>
+    <h3>Example of code :)</h3>
+
     ```js
       function sayHi() { 
         return "Hello Word!" 
       } 
       sayHi();
-    ```
+     ```
+
     <h3>Courses:</h3>
     <p> Rolling Scopes School February 2020 - July 2020 
       <a href="https://app.rs.school/certificate/o9cctjh0"> (click to view certificate)</a>
     </p>     
-    <h3>course projects:</h3>
+    <h3>Course projects:</h3>
       HTML + CSS </br>
       - <a href="https://rolling-scopes-school.github.io/hanna25-JS2020Q3/webdev/">WebDev</a> </br>
       HTML + CSS + JS </br>
@@ -60,4 +62,6 @@
       - <a href="https://rolling-scopes-school.github.io/hanna25-JS2020Q3/calculator/">Calculator</a> </br>    
       - <a href="https://rolling-scopes-school.github.io/hanna25-JS2020Q3/gem-puzzle/dist/index.html">Gem puzzle</a></br>   
   </div>
+
+
 
