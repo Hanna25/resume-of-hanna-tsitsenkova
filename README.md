@@ -13,6 +13,11 @@
        </a>
     </p>
   </div>
+  <p> Hello, my name is Anya and I want to start my career as a frond-end developer. Briefly about me: I am   initiative, diplomatic, tactful and I am not afraid of difficulties.
+  Below you will get to know my skills and small projects :)</p>
+
+  <h3>Work expirience:</h3>
+  <p>February 2020 - present - accruals accountant, Dubai Property Management, Minsk, Belarus</p>
 
   <div class="container-resume">
     <h3>Development:</h3>
@@ -37,21 +42,22 @@
       <li>Trello</li>
     </ul>
     <h3>Example of code 😁</h3>
-    ```
+    ```js
       function sayHi() { 
         return "Hello Word!" 
       } 
       sayHi();
     ```
-    <h3>Му progects:</h3>
+    <h3>Courses:</h3>
+    <p> Rolling Scopes School February 2020 - July 2020 
+      <a href="https://app.rs.school/certificate/o9cctjh0"> (click to view certificate)</a>
+    </p>     
+    <h3>course projects:</h3>
       HTML + CSS </br>
       - <a href="https://rolling-scopes-school.github.io/hanna25-JS2020Q3/webdev/">WebDev</a> </br>
       HTML + CSS + JS </br>
       - <a href="https://rolling-scopes-school.github.io/hanna25-JS2020Q3/shelter/pages/main/main.html">Shelter</a> </br>   
       - <a href="https://rolling-scopes-school.github.io/hanna25-JS2020Q3/calculator/">Calculator</a> </br>    
       - <a href="https://rolling-scopes-school.github.io/hanna25-JS2020Q3/gem-puzzle/dist/index.html">Gem puzzle</a></br>   
-      <h3>Other about me:</h3>
-      <p> I graduated from The Rolling Scopes School in 2020  <a href="https://app.rs.school/certificate/o9cctjh0">(click to view certificate)</a>
-      </p>
   </div>
 
