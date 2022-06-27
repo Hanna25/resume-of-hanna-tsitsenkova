@@ -1,0 +1,46 @@
+@mixin rectangular-button($width: 207px, $height: 52px, $background: #F1CDB3, $border: none) {
+  width: $width;
+  height: $height;
+  background: $background;
+  border-radius: 100px;
+  border: $border;
+  font-family: Georgia;
+  font-size: 17px;
+  letter-spacing: 0.06em;
+  line-height: 130%;
+  color: #292929;
+  cursor: pointer;
+  transition: .5s;
+}
+@mixin title-style($font-style: normal, $font-size: 34px, $color:#FFFFFF, $line-height: 57px) {
+  font-family: Georgia;
+  font-style: $font-style;
+  font-weight: normal;
+  font-size: $font-size;
+  line-height: $line-height;
+  color: $color;
+  transition: .5s;
+}
+@mixin paragraph-style($font-style: normal, $font-size: 15px, $color: #CDCDCD, $line-height: 24px) {
+  font-family: Arial;
+  font-style: $font-style;
+  font-weight: normal;
+  font-size: $font-size;
+  line-height: $line-height;
+  color: $color;
+  transition: .5s;
+}
+@mixin hover-navigation-bar {
+  color: #FAFAFA;
+  transition: .4s;
+}
+@mixin hover-content-buttons {
+  border: none;
+  background: #FDDCC4;
+  transition: .4s;
+}
+@mixin hover-slider-buttons {
+  border: 2px solid #FDDCC4;
+  background: #FDDCC4;
+  transition: .4s;
+}

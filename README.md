@@ -56,7 +56,8 @@
     HTML + CSS </br>
     - <a href="https://rolling-scopes-school.github.io/hanna25-JS2020Q3/webdev/">WebDev</a> </br>
     HTML + CSS + JS </br>
-    - <a href="https://rolling-scopes-school.github.io/hanna25-JS2020Q3/shelter/pages/main/main.html">Shelter</a> </br>   
+    - <a href="https://rolling-scopes-school.github.io/hanna25-JS2020Q3/shelter/pages/main/main.html">Shelter</a>
+      <a href="resume-of-hanna-tsitsenkova/shelter/pages/main/script.js"> code example</a> </br> 
     - <a href="https://rolling-scopes-school.github.io/hanna25-JS2020Q3/calculator/">Calculator</a> </br>    
     - <a href="https://rolling-scopes-school.github.io/hanna25-JS2020Q3/gem-puzzle/dist/index.html">Gem puzzle</a></br>   
 
