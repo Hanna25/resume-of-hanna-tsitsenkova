@@ -1,0 +1,127 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body {
+  width: 100%;
+}
+.title {
+  text-align: center;
+  padding: 20px 0 20px 0;
+}
+.container {
+  max-width: 1200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 60px;
+  margin: 0 auto;
+}
+
+.links {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+}
+.links > li > a {
+  width: 60px;
+  height: 60px;
+  display: block;
+}
+.number-phone, .telegram, .mail {
+  cursor: pointer;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.number-phone {
+  background-image: url(./assets/images/Circle-icons-phone.svg.png);
+  background-size: 25px;
+
+}
+.telegram {
+  background-image: url(./assets/images/logo-telegram.jpg);
+  background-size: 25px;
+
+}
+.mail {
+  background-image: url(./assets/images/logo-gmail.jpg);
+  background-size: 45px;
+}
+.other-links__social-media {
+  display: flex;
+  list-style-type: none;
+}
+.other-links__social-media > li > a {
+  width: 80px;
+  height: 80px;
+  display: block;
+}
+.git, .school-links {
+  margin: 0 20px;
+  cursor: pointer;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.git {
+  background-image: url(./assets/images/git.png);
+  background-size: 60px;
+}
+.school-links {
+  background-image: url(./assets/images/rs_school_js.svg);
+  background-size: 80px;
+}
+header, footer {
+  background-color: #8DA1E7;
+}
+footer {
+  padding: 20px 0 20px 0;
+}
+.about-me {
+  padding-bottom: 60px;
+}
+.photo {
+  border-radius: 50%;
+  padding: 20px 20px;
+}
+.city  {
+  text-align: center;
+}
+.personal-information {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+h2, h3 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  text-transform: uppercase;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 35px;
+}
+p, li {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  font-size: 15px
+}
+ul {
+  list-style-position: inside;
+}
+.information, .skills, .education {
+  margin-bottom: 20px;
+}
+.experience {
+  padding-top: 20px;
+  padding-right: 60px;
+}
+.other-links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
